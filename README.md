@@ -34,15 +34,12 @@
 
 
 ## Projects 💻:
-<div class='projects' >
-  <img alt='Mesto' , src='./images/Mesto.JPG'>
-  <img alt='learning_project' , src='./images/learning_project.JPG'>
-</div>
 
-<style>
-    .projects{
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap:5px
-    }
-</style>
+<div align="center">
+  <a href="https://starts.mesto.nomoreparties.sbs/mesto-react-auth" target="_blank">
+    <img src="./images/Mesto.JPG" title="Mesto" alt="Mesto"  width="320"/>
+  </a>
+  <a href="https://starts.movies.nomoredomains.xyz/" target="_blank">
+    <img src="./images/learning_project.JPG" title="learning_project" alt="learning_project"  width="320"/>
+  </a>
+  </div>
