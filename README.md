@@ -4,7 +4,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/nadyagallyamova)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lomeshyz)
 
-## About Me 👨🏻‍💻
+## About Me 👩‍💻
 
 👶 I'm a junior Web.developer
 
@@ -12,7 +12,6 @@
 
 
 ## Tech Stack 🛠️
-
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,7 +33,15 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 
-## Projects:
-
-<img alt='Mesto' width=500px, src='./images/Mesto.JPG'>
-<img alt='learning_project' width=500px, src='./images/learning_project.JPG'>
+## Projects 💻:
+<div class='projects' >
+  <img alt='Mesto' , src='./images/Mesto.JPG'>
+  <img alt='learning_project' , src='./images/learning_project.JPG'>
+</div>
+<style>
+    .projects{
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap:5px
+    }
+</style>
