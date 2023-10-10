@@ -38,6 +38,7 @@
   <img alt='Mesto' , src='./images/Mesto.JPG'>
   <img alt='learning_project' , src='./images/learning_project.JPG'>
 </div>
+
 <style>
     .projects{
       display: grid;
