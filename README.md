@@ -56,6 +56,6 @@
     <img src="./images/howToLearn.JPG" title="howToLearn" alt="howToLearn"  width="320"/>
   </a>
   <a href="https://lomeshyza.github.io/russian-travel/" target="_blank">
-    <img src="./images/russianTravel.jpg" title="russianTravel" alt="russianTravel"  width="320"/>
+    <img src="./images/russianTravel.JPG" title="russianTravel" alt="russianTravel"  width="320"/>
   </a>
   </div>
