@@ -1,15 +1,25 @@
 #    Hi there 👋
 
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/nadyagallyamova)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lomeshyz)
 
 ## About Me 👩‍💻
 
-👶 I'm a junior Web.developer
+- I'm a junior Web.developer
 
-🌱 I’m currently learning more JavaScript, React, TypeScript
+- I’m currently learning more JavaScript, React, TypeScript
 
+- How to reach me:
+<a href="https://t.me/lomeshyz" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/3670/3670070.png" title="Telegram" alt="Telegram"  width="25"/>
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=89165120275" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/4494/4494494.png" title="WhatsApp" alt="WhatsApp"  width="25"/>
+  </a>
+  <a href="https://discord.com/users/nadyagallyamova" target="_blank">
+    <img src="https://img.icons8.com/?size=80&id=n35VW8czPq4Q&format=png" title="discord" alt="discord"  width="25"/>
+  </a>
+   <a href="mailto:lomeshyza@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=37246&format=png" title="gmail" alt="gmail"  width="25"/>
+  </a>
 
 ## Tech Stack 🛠️
 
@@ -41,5 +51,11 @@
   </a>
   <a href="https://starts.movies.nomoredomains.xyz/" target="_blank">
     <img src="./images/learning_project.JPG" title="learning_project" alt="learning_project"  width="320"/>
+  </a>
+  <a href="https://lomeshyza.github.io/how-to-learn/" target="_blank">
+    <img src="./images/howToLearn.JPG" title="howToLearn" alt="howToLearn"  width="320"/>
+  </a>
+  <a href="https://lomeshyza.github.io/russian-travel/" target="_blank">
+    <img src="./images/russianTravel.jpg" title="russianTravel" alt="russianTravel"  width="320"/>
   </a>
   </div>
