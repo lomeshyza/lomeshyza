@@ -1,13 +1,14 @@
 #    Hi there 👋
 
 
-## About Me 👩‍💻
+## About Me 
 
 - I'm a junior Web.developer
 
 - I’m currently learning more JavaScript, React, TypeScript
 
-- How to reach me:
+## Contacts 
+
 <a href="https://t.me/lomeshyz" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/3670/3670070.png" title="Telegram" alt="Telegram"  width="25"/>
   </a>
@@ -21,7 +22,7 @@
     <img src="https://img.icons8.com/?size=48&id=37246&format=png" title="gmail" alt="gmail"  width="25"/>
   </a>
 
-## Tech Stack 🛠️
+## Tech Stack 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
