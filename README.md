@@ -47,10 +47,10 @@
 ## Projects 💻:
 
 <div align="center">
-  <a href="https://starts.mesto.nomoreparties.sbs/mesto-react-auth" target="_blank">
+  <a href="https://lomeshyza.github.io/mesto/" target="_blank">
     <img src="./images/Mesto.JPG" title="Mesto" alt="Mesto"  width="320"/>
   </a>
-  <a href="https://starts.movies.nomoredomains.xyz/" target="_blank">
+  <a href="https://github.com/lomeshyza?tab=repositories" target="_blank">
     <img src="./images/learning_project.JPG" title="learning_project" alt="learning_project"  width="320"/>
   </a>
   <a href="https://lomeshyza.github.io/how-to-learn/" target="_blank">
